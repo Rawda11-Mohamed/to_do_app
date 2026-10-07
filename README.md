@@ -573,7 +573,3 @@ It provides a strong example of building a complete Flutter application while ap
   <img src="https://github.com/user-attachments/assets/f7fcf391-9edf-4764-8c4e-6a209916739a" width="23%" />
 </p>
 
-    <td><img src="https://github.com/user-attachments/assets/29a6e62a-8b06-4fda-85a6-ad53d0ccf26e" width="220" height="480" style="object-fit: cover;"></td>
-    <td><img src="https://github.com/user-attachments/assets/e2c00744-d687-4eaf-bccf-125ba5f904b2" width="220" height="480" style="object-fit: cover;"></td>
-  </tr>
-</table>
