@@ -573,7 +573,7 @@ It provides a strong example of building a complete Flutter application while ap
     <td><img src="https://github.com/user-attachments/assets/6de9525d-eada-474a-a178-b42e0f5ee15e" width="220" height="480" style="object-fit: cover;"></td>
   </tr>
   <tr>
-    
+    </td>
     <td><img src="https://github.com/user-attachments/assets/29a6e62a-8b06-4fda-85a6-ad53d0ccf26e" width="220" height="480" style="object-fit: cover;"></td>
     <td><img src="https://github.com/user-attachments/assets/e2c00744-d687-4eaf-bccf-125ba5f904b2" width="220" height="480" style="object-fit: cover;"></td>
   </tr>
