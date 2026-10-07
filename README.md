@@ -558,31 +558,20 @@ The project demonstrates practical implementation of **authentication, task mana
 
 It provides a strong example of building a complete Flutter application while applying real-world concepts such as state management, backend integration, data persistence, and separation of responsibilities.
 ## 📸 Screenshots
-<img width="720" height="786" alt="image" src="https://github.com/user-attachments/assets/58e32492-5e08-46dc-841a-f5d586309977" />
 
-<img width="720" height="787" alt="image" src="https://github.com/user-attachments/assets/85386867-8956-4908-ac67-ecb0b8b85efa" />
-<img width="718" height="781" alt="image" src="https://github.com/user-attachments/assets/9ed06d4c-270e-45e2-b09d-9cdcef6e2bfb" />
-<img width="720" height="796" alt="image" src="https://github.com/user-attachments/assets/1dcb591b-8fff-420f-8a46-b0bdeebc3c37" />
-<img width="720" height="795" alt="image" src="https://github.com/user-attachments/assets/eadfd645-42be-4b12-b37c-73aafd16ef7e" />
-<img width="720" height="566" alt="image" src="https://github.com/user-attachments/assets/182b588f-8e06-4ee9-a25c-c438c97bb27c" />
-<img width="720" height="793" alt="image" src="https://github.com/user-attachments/assets/220f17a8-eff4-4f09-98f8-2588eb79c001" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/58e32492-5e08-46dc-841a-f5d586309977" width="23%" />
+  <img src="https://github.com/user-attachments/assets/85386867-8956-4908-ac67-ecb0b8b85efa" width="23%" />
+  <img src="https://github.com/user-attachments/assets/9ed06d4c-270e-45e2-b09d-9cdcef6e2bfb" width="23%" />
+  <img src="https://github.com/user-attachments/assets/1dcb591b-8fff-420f-8a46-b0bdeebc3c37" width="23%" />
+</p>
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/d2f28d55-10f4-4be3-b6e1-0c5c495fd0cd" width="220" height="480" style="object-fit: cover;"></td>
-    <td><img src="https://github.com/user-attachments/assets/f4a6bcae-694b-4a83-b0f2-22950c513664" width="220" height="480" style="object-fit: cover;"></td>
-    <td><img src="https://github.com/user-attachments/assets/a5ab15d3-a16f-49b7-8b93-85dc460b9e66" width="220" height="480" style="object-fit: cover;"></td>
-    <td><img src="https://github.com/user-attachments/assets/08c62a87-ce2d-488c-bc4f-9493454fbb47" width="220" height="480" style="object-fit: cover;"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/a925a9de-69e4-44e4-8cdc-5b216e989621" width="220" height="480" style="object-fit: cover;"></td>
-    <td><img src="https://github.com/user-attachments/assets/2338b401-4c22-4e8d-bf47-a6be8390586e" width="220" height="480" style="object-fit: cover;"></td>
-    <td><img src="https://github.com/user-attachments/assets/e2c00744-d687-4eaf-bccf-125ba5f904b2" width="220" height="480" style="object-fit: cover;"></td>
-    <td><img src="https://github.com/user-attachments/assets/29a6e62a-8b06-4fda-85a6-ad53d0ccf26e" width="220" height="480" style="object-fit: cover;"></td>
-  </tr>
-  <tr>
-</td>
-      
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eadfd645-42be-4b12-b37c-73aafd16ef7e" width="23%" />
+  <img src="https://github.com/user-attachments/assets/182b588f-8e06-4ee9-a25c-c438c97bb27c" width="23%" />
+  <img src="https://github.com/user-attachments/assets/220f17a8-eff4-4f09-98f8-2588eb79c001" width="23%" />
+  <img src="https://github.com/user-attachments/assets/f7fcf391-9edf-4764-8c4e-6a209916739a" width="23%" />
+</p>
 
     <td><img src="https://github.com/user-attachments/assets/29a6e62a-8b06-4fda-85a6-ad53d0ccf26e" width="220" height="480" style="object-fit: cover;"></td>
     <td><img src="https://github.com/user-attachments/assets/e2c00744-d687-4eaf-bccf-125ba5f904b2" width="220" height="480" style="object-fit: cover;"></td>
