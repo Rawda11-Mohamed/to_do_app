@@ -565,6 +565,7 @@ It provides a strong example of building a complete Flutter application while ap
 <img width="720" height="796" alt="image" src="https://github.com/user-attachments/assets/1dcb591b-8fff-420f-8a46-b0bdeebc3c37" />
 <img width="720" height="795" alt="image" src="https://github.com/user-attachments/assets/eadfd645-42be-4b12-b37c-73aafd16ef7e" />
 <img width="720" height="566" alt="image" src="https://github.com/user-attachments/assets/182b588f-8e06-4ee9-a25c-c438c97bb27c" />
+<img width="720" height="793" alt="image" src="https://github.com/user-attachments/assets/220f17a8-eff4-4f09-98f8-2588eb79c001" />
 
 <table>
   <tr>
