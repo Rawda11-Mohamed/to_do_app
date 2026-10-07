@@ -558,6 +558,8 @@ The project demonstrates practical implementation of **authentication, task mana
 
 It provides a strong example of building a complete Flutter application while applying real-world concepts such as state management, backend integration, data persistence, and separation of responsibilities.
 ## 📸 Screenshots
+<img width="720" height="786" alt="image" src="https://github.com/user-attachments/assets/58e32492-5e08-46dc-841a-f5d586309977" />
+
 
 <table>
   <tr>
